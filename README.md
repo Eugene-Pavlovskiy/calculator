@@ -1,2 +1,2 @@
 # calculator
-My first work in coding
+My first training work in coding
